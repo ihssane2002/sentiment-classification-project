@@ -28,12 +28,12 @@ Le modèle **RoBERTa-base** a été fine-tuné pendant environ 2 époques. Voici
 - eval_samples_per_second: 69.39
 - epoch: ~2.08
 
-3. **Une interface interactive avec Streamlit**, permettant à l'utilisateur :
+3.**Une interface interactive avec Streamlit**, permettant à l'utilisateur :
    - D’écrire un texte ou une phrase
    - De recevoir la prédiction du modèle (positive, négative, neutre)
    - De visualiser les résultats facilement
 
-## 🧩 Contenu du dépôt sur hugging face
+Contenu du dépôt sur hugging face
 
 Le dépôt contient :
 
