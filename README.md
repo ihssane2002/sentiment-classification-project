@@ -1,14 +1,14 @@
 # sentiment-classification-project
-# 🧠 Sentiment Classification App with BERT
+# Sentiment Classification App with BERT
 Bienvenue sur ce dépôt GitHub dédié à la **classification de sentiments** à l’aide d’un modèle RoBERTa entraîné sur les **avis produits Amazon**. Le modèle obtenu est ensuite utilisé dans une **application Streamlit** hébergée sur [Hugging Face Spaces](https://huggingface.co/spaces/ihssane20/emotiview-app/tree/main).
 
 
-## 🚀 Description du projet
+##  Description du projet
 
 Ce projet combine deux parties principales :
 
 1. **Un modèle BERT personnalisé** que j'ai entraîné pour la classification de sentiments.  
-   👉 Entraîné dans le notebook [`sentiment_classification_model.ipynb`](https://github.com/<TON-USERNAME>/<TON-REPO>/blob/main/sentiment_classification_model.ipynb)
+   👉 Entraîné dans le notebook [`sentiment_classification_model.ipynb`].
   a pour but de :
 
 - **Prétraiter et préparer un jeu de données réel** (Amazon Review Dataset) pour une tâche de classification de sentiments.
