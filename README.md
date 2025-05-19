@@ -16,7 +16,7 @@ Ce projet combine deux parties principales :
 - **Déployer une interface Streamlit** intuitive pour tester le modèle en ligne.
 
 
-##2.  📊 Résultats de l'entraînement
+## 2.  📊 Résultats de l'entraînement
 
 Le modèle **RoBERTa-base** a été fine-tuné pendant environ 2 époques. Voici les performances obtenues :
 
